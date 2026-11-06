@@ -1,4 +1,4 @@
-# ME F321 – Machine Learning Labs
+# Data Mining Exercises
 
 Laboratory notebooks and task sheets for **ME F321** (BITS Pilani, Pilani Campus).
 
