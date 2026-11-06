@@ -8,7 +8,7 @@ Laboratory notebooks and task sheets for **ME F321** (BITS Pilani, Pilani Campus
 
 | Lab | Topic | Datasets | Contents |
 |-----|-------|----------|----------|
-| [Lab 6](lab6_tree_models/) | Decision Trees, Random Forest, Gradient Boosting | Sensorless Drive Diagnosis, AI4I Predictive Maintenance | `notebooks/` |
+| [Lab 6](lab6_tree_models/) | Decision Trees, Random Forest, Gradient Boosting | Sensorless Drive Diagnosis, AI4I Predictive Maintenance | `notebooks/`, `tasks/` |
 | [Lab 7](lab7_naive_bayes_svm/) | Gaussian Naive Bayes, SVM (OvO / OvR) | Steel Plates Faults (UCI id 198), predictive maintenance | `notebooks/`, `tasks/` |
 | [Lab 8](lab8_knn_neural_networks/) | kNN, Keras neural network | `glass.csv`, Steel Plates Faults | `notebooks/`, `tasks/` |
 
